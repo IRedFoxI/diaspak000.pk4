@@ -1,0 +1,182 @@
+sdWorldFile version 5 {
+
+	primitiveHolders {
+		sdPrimitiveEntity "worldspawn" {
+			classname "worldspawn"
+			primitives {
+				sdPrimitiveBrush "sdPrimitiveBrush" {
+					
+					sdTransform {
+						translation ( 124 28 32 )
+					}
+					
+					faces {
+						plane ( 0 0 1 -96 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( -1 0 0 -892 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( 1 0 0 -644 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( 0 -1 -0 -156 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( 0 1 0 -100 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( -0 -0 -1 88 ) matrix ( ( 0.00390625 0 0 ) ( 0 0.00390625 0 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/concrete/ceiling_3"
+					}
+				}
+				sdPrimitiveBrush "sdPrimitiveBrush" {
+					
+					sdTransform {
+						translation ( 124 28 32 )
+					}
+					
+					faces {
+						plane ( 0 0 -1 -32 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( -1 0 -0 -892 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( 1 0 0 -644 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( 0 -1 -0 -156 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( 0 1 0 -100 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( 0 0 1 24 ) matrix ( ( 0.00390625 0 0 ) ( 0 0.00390625 0 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/concrete/floor_7"
+					}
+				}
+				sdPrimitiveBrush "sdPrimitiveBrush" {
+					
+					sdTransform {
+						translation ( -132 28 32 )
+					}
+					
+					faces {
+						plane ( 0 0 1 -88 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 -2 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( 0 0 -1 -24 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 2 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( -1 0 -0 -636 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( 0 -1 -0 -148 ) matrix ( ( 0.03125 0 -2 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( 0 1 0 -92 ) matrix ( ( 0.03125 0 2 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( 1 0 0 628 ) matrix ( ( 0.00390625 0 0 ) ( 0 0.00390625 0 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/concrete/wall_lab_1"
+					}
+				}
+				sdPrimitiveBrush "sdPrimitiveBrush" {
+					
+					sdTransform {
+						translation ( 380 28 32 )
+					}
+					
+					faces {
+						plane ( 0 -0 1 -88 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( 0 -0 -1 -24 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( 1 0 0 -388 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( 0 -1 -0 -148 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( 0 1 0 -92 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( -1 -0 -0 380 ) matrix ( ( 0.00390625 0 0 ) ( 0 0.00390625 0 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/concrete/wall_lab_1"
+					}
+				}
+				sdPrimitiveBrush "sdPrimitiveBrush" {
+					
+					sdTransform {
+						translation ( 124 28 32 )
+					}
+					
+					faces {
+						plane ( 0 0 1 -88 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( -0 0 -1 -24 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( -1 0 -0 -892 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( 1 0 0 -644 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( 0 -1 -0 -156 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( 0 1 0 148 ) matrix ( ( 0.00390625 0 0 ) ( 0 0.00390625 0 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/concrete/wall_lab_1"
+					}
+				}
+				sdPrimitiveBrush "sdPrimitiveBrush" {
+					
+					sdTransform {
+						translation ( 124 28 32 )
+					}
+					
+					faces {
+						plane ( 0 0 1 -88 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( -0 0 -1 -24 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( -1 0 -0 -892 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( 1 0 0 -644 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( 0 1 0 -100 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
+						plane ( -0 -1 -0 92 ) matrix ( ( 0.00390625 0 0 ) ( 0 0.00390625 0 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/concrete/wall_lab_1"
+					}
+				}
+			}
+		}
+		sdPrimitiveEntity "pim_light_5" {
+			sdDictionary {
+				"light_radius"	"300 300 300"
+			}
+			sdTransform {
+				translation ( -256 0 112 )
+			}
+			
+			classname "light"
+		}
+		sdPrimitiveEntity "pim_light_7" {
+			sdDictionary {
+				"light_radius"	"300 300 300"
+			}
+			sdTransform {
+				translation ( 256 0 112 )
+			}
+			
+			classname "light"
+		}
+		sdPrimitiveEntity "pim_trigger_hopserver_1" {
+			sdDictionary {
+				"link_number"	"1"
+			}
+			sdTransform {
+				translation ( 480 0 32 )
+			}
+			
+			classname "trigger_hopserver"
+			primitives {
+				sdPrimitiveBrush "sdPrimitiveBrush" {
+					
+					sdTransform {
+						translation ( 88 0 8 )
+					}
+					
+					faces {
+						plane ( 0 0 1 -80 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 -2.75 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/trigmulti"
+						plane ( 0 0 -1 -32 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 2.75 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/trigmulti"
+						plane ( -1 0 -0 -8 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/trigmulti"
+						plane ( 1 0 0 -8 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/trigmulti"
+						plane ( 0 -1 -0 -120 ) matrix ( ( 0.03125 0 -2.75 ) ( 0 0.03125 0.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/trigmulti"
+						plane ( 0 1 0 -120 ) matrix ( ( 0.03125 0 2.75 ) ( 0 0.03125 0.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/trigmulti"
+					}
+				}
+			}
+		}
+		sdPrimitiveEntity "pim_info_team_gdf_spawn" {
+			sdTransform {
+				translation ( 448 0 40 )
+				rotation ( ( -1 -0 0.0000000874 ) ( 0 -1 0.0000000874 ) ( 0.0000000874 0.0000000874 1 ) )
+			}
+			
+			classname "info_team_gdf_spawn"
+		}
+		sdPrimitiveEntity "pim_trigger_hopserver_2" {
+			sdDictionary {
+				"link_number"	"2"
+			}
+			sdTransform {
+				translation ( -512 0 64 )
+			}
+			
+			classname "trigger_hopserver"
+			primitives {
+				sdPrimitiveBrush "sdPrimitiveBrush" {
+					
+					sdTransform {
+						translation ( -132 0 0 )
+					}
+					
+					faces {
+						plane ( 0 0 1 -56 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 4.125 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/trigmulti"
+						plane ( 0 0 -1 -56 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 -4.125 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/trigmulti"
+						plane ( -1 0 0 -4 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/trigmulti"
+						plane ( 1 0 0 -12 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/trigmulti"
+						plane ( 0 -1 0 -120 ) matrix ( ( 0.03125 0 4.125 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/trigmulti"
+						plane ( 0 1 0 -120 ) matrix ( ( 0.03125 0 -4.125 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/trigmulti"
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,20 @@
+/***********************************************************************
+
+ trigger_hopserver.def
+
+***********************************************************************/
+
+entityDef trigger_hopserver {
+	"editor_color"					"0 .5 .8"
+        "editor_mins"					"? ? ?"
+        "editor_maxs"					"? ? ?"
+        "editor_material"                               "textures/common/trigmulti"
+
+        //"inherit"					"trigger_multiple"
+        "spawnclass"                                    "sdScriptEntity"
+	"scriptObject"					"trigger_hopserver"
+
+        "option_wants_touch"                            "1"
+
+        "editor_var link_number"                        "Number of the link to trigger, default is 1"
+}

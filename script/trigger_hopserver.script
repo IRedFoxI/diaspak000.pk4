@@ -1,0 +1,23 @@
+/***********************************************************************
+
+trigger_hopserver.script
+
+***********************************************************************/
+
+object trigger_hopserver {
+        void                    preinit();
+        void 			OnTouch( entity activator, object traceObject );
+
+        float                   linkNr;
+};
+
+void trigger_hopserver::preinit() {
+        linkNr = getFloatKeyWithDefault( "link_number", 1 );
+}
+
+void trigger_hopserver::OnTouch( entity activator, object traceObject ) {
+        player hopper = activator;
+        if ( hopper != $null_entity && sys.isServer() ) {
+                hopper.hopServer( linkNr );
+	}
+}

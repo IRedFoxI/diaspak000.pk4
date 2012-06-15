@@ -1,0 +1,312 @@
+material textures/common/clip_plus { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/clip_plus"
+	}
+}
+
+material textures/common/collision_grass { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/collision_grass"
+	}
+}
+
+material textures/common/botclip { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/botclip"
+	}
+}
+
+material textures/common/clip_plus { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/clip_plus"
+	}
+}
+
+material textures/common/collision_grass { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/collision_grass"
+	}
+}
+
+material textures/common/botclip { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/botclip"
+	}
+}
+
+material textures/common/clip_plus { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/clip_plus"
+	}
+}
+
+material textures/common/collision_grass { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/collision_grass"
+	}
+}
+
+material textures/common/botclip { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/botclip"
+	}
+}
+
+material textures/common/clip_plus { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/clip_plus"
+	}
+}
+
+material textures/common/collision_grass { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/collision_grass"
+	}
+}
+
+material textures/common/botclip { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/botclip"
+	}
+}
+
+material textures/common/clip_plus { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/clip_plus"
+	}
+}
+
+material textures/common/collision_grass { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/collision_grass"
+	}
+}
+
+material textures/common/botclip { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/botclip"
+	}
+}
+
+material textures/common/clip_plus { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/clip_plus"
+	}
+}
+
+material textures/common/collision_grass { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/collision_grass"
+	}
+}
+
+material textures/common/botclip { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/botclip"
+	}
+}
+
+material textures/common/clip_plus { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/clip_plus"
+	}
+}
+
+material textures/common/collision_grass { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/collision_grass"
+	}
+}
+
+material textures/common/botclip { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/botclip"
+	}
+}
+
+material textures/common/clip_plus { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/clip_plus"
+	}
+}
+
+material textures/common/collision_grass { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/collision_grass"
+	}
+}
+
+material textures/common/botclip { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/botclip"
+	}
+}
+
+material textures/common/clip_plus { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/clip_plus"
+	}
+}
+
+material textures/common/collision_grass { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/collision_grass"
+	}
+}
+
+material textures/common/botclip { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/botclip"
+	}
+}
+
+material textures/common/clip_plus { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/clip_plus"
+	}
+}
+
+material textures/common/collision_grass { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/collision_grass"
+	}
+}
+
+material textures/common/botclip { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/botclip"
+	}
+}
+
+material textures/common/clip_plus { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/clip_plus"
+	}
+}
+
+material textures/common/collision_grass { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/collision_grass"
+	}
+}
+
+material textures/common/botclip { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/botclip"
+	}
+}
+
+material textures/common/clip_plus { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/clip_plus"
+	}
+}
+
+material textures/common/collision_grass { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/collision_grass"
+	}
+}
+
+material textures/common/botclip { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/botclip"
+	}
+}
+
+material textures/common/clip_plus { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/clip_plus"
+	}
+}
+
+material textures/common/collision_grass { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/collision_grass"
+	}
+}
+
+material textures/common/botclip { // IMPLICITLY GENERATED
+	{
+		blend blend
+		colored
+		map clamp "textures/common/botclip"
+	}
+}
+

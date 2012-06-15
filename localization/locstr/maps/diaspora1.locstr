@@ -1,0 +1,3 @@
+locString maps/diaspora1/location { text "#str_diaspora1_000" }
+locString maps/diaspora1/briefing { text "#str_diaspora1_001" }
+locString maps/diaspora1/campaign { text "#str_diaspora1_002" }
